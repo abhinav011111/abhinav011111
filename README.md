@@ -13,7 +13,6 @@
 - 📄 Know about my experiences [Resume](https://bit.ly/427AVrK)
 
 
-<div style="padding : 20px 0 20px 0"> </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
