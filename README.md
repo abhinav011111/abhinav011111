@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abhinavzade01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vqzssrfG5xPw8J0b7wbTi7cEKiGMHb09/view?usp=sharing](https://drive.google.com/file/d/1vqzssrfG5xPw8J0b7wbTi7cEKiGMHb09/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://bit.ly/427AVrK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
