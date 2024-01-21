@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [Resume](https://bit.ly/427AVrK)
 
 
-<div padding = "1px 0 1px 0">
+<div style = padding : "1px 0 1px 0">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhinav-zade-a5b169213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-zade-a5b169213" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 </div>
 
-<p><img padding = "20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav011111&show_icons=true&locale=en&layout=compact" alt="abhinav011111" /></p>
+<p><img style = padding : "20px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav011111&show_icons=true&locale=en&layout=compact" alt="abhinav011111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav011111&show_icons=true&locale=en" alt="abhinav011111" /></p>
 
